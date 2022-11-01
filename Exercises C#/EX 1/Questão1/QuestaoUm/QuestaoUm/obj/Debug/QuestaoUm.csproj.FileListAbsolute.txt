@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\QuestaoUm\QuestaoUm\bin\Debug\QuestaoUm.exe.config
+C:\Users\User\source\repos\QuestaoUm\QuestaoUm\bin\Debug\QuestaoUm.exe
+C:\Users\User\source\repos\QuestaoUm\QuestaoUm\bin\Debug\QuestaoUm.pdb
+C:\Users\User\source\repos\QuestaoUm\QuestaoUm\obj\Debug\QuestaoUm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\QuestaoUm\QuestaoUm\obj\Debug\QuestaoUm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QuestaoUm\QuestaoUm\obj\Debug\QuestaoUm.exe
+C:\Users\User\source\repos\QuestaoUm\QuestaoUm\obj\Debug\QuestaoUm.pdb
+C:\Users\Jose\OneDrive\Área de Trabalho\Linkedin or Github\Atv POO\Atividade 1\Questão1\QuestaoUm\QuestaoUm\bin\Debug\QuestaoUm.exe.config
+C:\Users\Jose\OneDrive\Área de Trabalho\Linkedin or Github\Atv POO\Atividade 1\Questão1\QuestaoUm\QuestaoUm\bin\Debug\QuestaoUm.exe
+C:\Users\Jose\OneDrive\Área de Trabalho\Linkedin or Github\Atv POO\Atividade 1\Questão1\QuestaoUm\QuestaoUm\bin\Debug\QuestaoUm.pdb
+C:\Users\Jose\OneDrive\Área de Trabalho\Linkedin or Github\Atv POO\Atividade 1\Questão1\QuestaoUm\QuestaoUm\obj\Debug\QuestaoUm.csproj.AssemblyReference.cache
+C:\Users\Jose\OneDrive\Área de Trabalho\Linkedin or Github\Atv POO\Atividade 1\Questão1\QuestaoUm\QuestaoUm\obj\Debug\QuestaoUm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\OneDrive\Área de Trabalho\Linkedin or Github\Atv POO\Atividade 1\Questão1\QuestaoUm\QuestaoUm\obj\Debug\QuestaoUm.csproj.CoreCompileInputs.cache
+C:\Users\Jose\OneDrive\Área de Trabalho\Linkedin or Github\Atv POO\Atividade 1\Questão1\QuestaoUm\QuestaoUm\obj\Debug\QuestaoUm.exe
+C:\Users\Jose\OneDrive\Área de Trabalho\Linkedin or Github\Atv POO\Atividade 1\Questão1\QuestaoUm\QuestaoUm\obj\Debug\QuestaoUm.pdb

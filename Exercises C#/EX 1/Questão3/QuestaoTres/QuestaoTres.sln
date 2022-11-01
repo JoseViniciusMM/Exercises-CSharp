@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestaoTres", "QuestaoTres\QuestaoTres.csproj", "{E67629D1-6F04-4807-9DC0-9C260212F282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E67629D1-6F04-4807-9DC0-9C260212F282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67629D1-6F04-4807-9DC0-9C260212F282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67629D1-6F04-4807-9DC0-9C260212F282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67629D1-6F04-4807-9DC0-9C260212F282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2CD9D26-B1EA-4CCC-B835-CC545BC09294}
+	EndGlobalSection
+EndGlobal

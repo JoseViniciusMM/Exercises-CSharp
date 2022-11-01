@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\QuestaoDois\QuestaoDois\bin\Debug\QuestaoDois.exe.config
+C:\Users\User\source\repos\QuestaoDois\QuestaoDois\bin\Debug\QuestaoDois.exe
+C:\Users\User\source\repos\QuestaoDois\QuestaoDois\bin\Debug\QuestaoDois.pdb
+C:\Users\User\source\repos\QuestaoDois\QuestaoDois\obj\Debug\QuestaoDois.csprojAssemblyReference.cache
+C:\Users\User\source\repos\QuestaoDois\QuestaoDois\obj\Debug\QuestaoDois.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QuestaoDois\QuestaoDois\obj\Debug\QuestaoDois.exe
+C:\Users\User\source\repos\QuestaoDois\QuestaoDois\obj\Debug\QuestaoDois.pdb

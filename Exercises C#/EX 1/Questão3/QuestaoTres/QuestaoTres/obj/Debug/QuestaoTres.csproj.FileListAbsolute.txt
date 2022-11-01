@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\QuestaoTres\QuestaoTres\obj\Debug\QuestaoTres.csprojAssemblyReference.cache
+C:\Users\User\source\repos\QuestaoTres\QuestaoTres\obj\Debug\QuestaoTres.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QuestaoTres\QuestaoTres\bin\Debug\QuestaoTres.exe.config
+C:\Users\User\source\repos\QuestaoTres\QuestaoTres\bin\Debug\QuestaoTres.exe
+C:\Users\User\source\repos\QuestaoTres\QuestaoTres\bin\Debug\QuestaoTres.pdb
+C:\Users\User\source\repos\QuestaoTres\QuestaoTres\obj\Debug\QuestaoTres.exe
+C:\Users\User\source\repos\QuestaoTres\QuestaoTres\obj\Debug\QuestaoTres.pdb

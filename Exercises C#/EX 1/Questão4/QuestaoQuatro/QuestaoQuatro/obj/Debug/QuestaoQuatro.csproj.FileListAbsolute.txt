@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\QuestaoQuatro\QuestaoQuatro\bin\Debug\QuestaoQuatro.exe.config
+C:\Users\User\source\repos\QuestaoQuatro\QuestaoQuatro\bin\Debug\QuestaoQuatro.exe
+C:\Users\User\source\repos\QuestaoQuatro\QuestaoQuatro\bin\Debug\QuestaoQuatro.pdb
+C:\Users\User\source\repos\QuestaoQuatro\QuestaoQuatro\obj\Debug\QuestaoQuatro.csprojAssemblyReference.cache
+C:\Users\User\source\repos\QuestaoQuatro\QuestaoQuatro\obj\Debug\QuestaoQuatro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QuestaoQuatro\QuestaoQuatro\obj\Debug\QuestaoQuatro.exe
+C:\Users\User\source\repos\QuestaoQuatro\QuestaoQuatro\obj\Debug\QuestaoQuatro.pdb
