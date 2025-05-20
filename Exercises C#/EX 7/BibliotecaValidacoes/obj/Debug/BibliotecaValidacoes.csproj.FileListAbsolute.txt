@@ -1,0 +1,9 @@
+D:\2º Semestre\Módulo 3\Programação Orientada a Objetos\BibliotecaValidacoes\bin\Debug\BibliotecaValidacoes.dll
+D:\2º Semestre\Módulo 3\Programação Orientada a Objetos\BibliotecaValidacoes\bin\Debug\BibliotecaValidacoes.pdb
+D:\2º Semestre\Módulo 3\Programação Orientada a Objetos\BibliotecaValidacoes\bin\Debug\BibliotecaMsg.dll
+D:\2º Semestre\Módulo 3\Programação Orientada a Objetos\BibliotecaValidacoes\bin\Debug\BibliotecaMsg.pdb
+D:\2º Semestre\Módulo 3\Programação Orientada a Objetos\BibliotecaValidacoes\obj\Debug\BibliotecaValidacoes.csproj.AssemblyReference.cache
+D:\2º Semestre\Módulo 3\Programação Orientada a Objetos\BibliotecaValidacoes\obj\Debug\BibliotecaValidacoes.csproj.CoreCompileInputs.cache
+D:\2º Semestre\Módulo 3\Programação Orientada a Objetos\BibliotecaValidacoes\obj\Debug\BibliotecaValidacoes.csproj.CopyComplete
+D:\2º Semestre\Módulo 3\Programação Orientada a Objetos\BibliotecaValidacoes\obj\Debug\BibliotecaValidacoes.dll
+D:\2º Semestre\Módulo 3\Programação Orientada a Objetos\BibliotecaValidacoes\obj\Debug\BibliotecaValidacoes.pdb

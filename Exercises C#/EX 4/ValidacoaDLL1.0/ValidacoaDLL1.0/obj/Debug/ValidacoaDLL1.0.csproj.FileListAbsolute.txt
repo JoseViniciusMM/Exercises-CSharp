@@ -1,0 +1,11 @@
+C:\Users\Feal\source\repos\ValidacoaDLL1.0\ValidacoaDLL1.0\bin\Debug\ValidacoaDLL1.0.dll
+C:\Users\Feal\source\repos\ValidacoaDLL1.0\ValidacoaDLL1.0\bin\Debug\ValidacoaDLL1.0.pdb
+C:\Users\Feal\source\repos\ValidacoaDLL1.0\ValidacoaDLL1.0\obj\Debug\ValidacoaDLL1.0.csproj.CoreCompileInputs.cache
+C:\Users\Feal\source\repos\ValidacoaDLL1.0\ValidacoaDLL1.0\obj\Debug\ValidacoaDLL1.0.dll
+C:\Users\Feal\source\repos\ValidacoaDLL1.0\ValidacoaDLL1.0\obj\Debug\ValidacoaDLL1.0.pdb
+C:\Users\DioBrando\Downloads\ValidacoaDLL1.0\ValidacoaDLL1.0\bin\Debug\ValidacoaDLL1.0.dll
+C:\Users\DioBrando\Downloads\ValidacoaDLL1.0\ValidacoaDLL1.0\bin\Debug\ValidacoaDLL1.0.pdb
+C:\Users\DioBrando\Downloads\ValidacoaDLL1.0\ValidacoaDLL1.0\obj\Debug\ValidacoaDLL1.0.csproj.AssemblyReference.cache
+C:\Users\DioBrando\Downloads\ValidacoaDLL1.0\ValidacoaDLL1.0\obj\Debug\ValidacoaDLL1.0.csproj.CoreCompileInputs.cache
+C:\Users\DioBrando\Downloads\ValidacoaDLL1.0\ValidacoaDLL1.0\obj\Debug\ValidacoaDLL1.0.dll
+C:\Users\DioBrando\Downloads\ValidacoaDLL1.0\ValidacoaDLL1.0\obj\Debug\ValidacoaDLL1.0.pdb
